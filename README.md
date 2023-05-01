@@ -14,12 +14,13 @@ Android Kotlin app made with these features:
 - Firebase (Database for Authentication and Data)
 
 
+## Authors
+
+Made by: Jean Benedict C. Gaela
+- [@jbgaela](https://www.https://github.com/jbgaela)
+
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
-
-
-## Acknowledgements
-
-Made by: Jean Benedict C. Gaela
 
